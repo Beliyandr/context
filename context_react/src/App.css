@@ -1,0 +1,23 @@
+.App {
+  max-width: 500px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+
+
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+
+
+}
+
+
+
+.todo-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
